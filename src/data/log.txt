@@ -1,0 +1,1 @@
+2018.10.21 add comment to all files except enemy, gift, music, player, smart bullet
